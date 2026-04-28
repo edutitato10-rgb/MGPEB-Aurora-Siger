@@ -47,7 +47,6 @@ python mgpeb.py
 ## 📄 Arquivos
 
 * `mgpeb.py` → código
-* `relatorio.pdf` → relatório
 
 ---
 
